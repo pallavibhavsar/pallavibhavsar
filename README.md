@@ -6,3 +6,5 @@ this is repositary
 ## Purpose
 understand the the git hub and git 
 ## How to Contribute
+ this is contribute area
+
